@@ -104,3 +104,15 @@ The project demonstrates the application of transfer learning for driver state c
 - Alarm system for fatigue detection
 - Mobile deployment
 - Vision Transformer (ViT) implementation
+
+---
+
+## 🎓 Academic Project
+
+**Course:** Deep Learning
+
+**University:** VIT Chennai
+
+**Programme:** Integrated M.Tech – Computer Science & Engineering (Business Analytics)
+
+---
